@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="https://www.linkedin.com/in/%E9%9B%A8%E8%BE%B0-%E7%8E%8B-83b14a211/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xyuchenwang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  yuchenwang-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="yuchenwang0816@163.com" target="_blank">
-<img src="https://img.shields.io/badge/email:  0xyuchenwang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email:  yuchenwang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
