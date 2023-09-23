@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="yuchenwang0816@163.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xyuchenwang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email:  0xyuchenwang-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
