@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+- Currently a Northwestern Master's cs student
+- Interested in cv, cg
+- New in cg, still learning...
 - A passionate Self-taught programmer
 - Reading and drawing at spare time
 - Currently learning Web Development by Self
@@ -95,7 +97,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -114,7 +116,7 @@ Here are some ideas to get you started:
 -----
 
 <br>
-<br>
+<br> -->
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
