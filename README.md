@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+
 - Currently a Northwestern Master's cs student
 - Interested in cv, cg
 - New in cg, still learning...
