@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 - New in cg, still learning...
 - A passionate Self-taught programmer
 - Reading and drawing at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://yuchen-cyber.github.io/)
+
 <!-- - I’m currently open for an Research Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)  -->
 
 <br><br>
